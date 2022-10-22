@@ -1,0 +1,16 @@
+Client,Project,Task,Assigned Users,User Roles Involved
+Universal Software,Instant Online Data,Import Client Data,"James, Alice, Samantha","Developer, Tester, Project Manager"
+Universal Software,Instant Online Data,Develop website design,Evelyn,Designer
+Universal Software,Instant Online Data,Develop website programming,James,Developer
+Universal Software,Instant Online Data,Test website,Alice,Tester
+Universal Software,Instant Online Data,Fix test results and recheck,"James, Alice","Developer, Tester"
+Universal Software,Instant Online Data,Deploy website,James,Developer
+Universal Software,Instant Online Data,Manager Support,Samantha,Project Manager
+Universal Software,Upgrade My Service Project,Subscription Module,"Evelyn, James","Designer, Developer"
+Universal Software,Upgrade My Service Project,Payments Module,"Evelyn, James","Designer, Developer"
+Universal Software,Upgrade My Service Project,Manager Support,Samantha,Project Manager
+Gamma Horizon,Online Form Data Collector,Create astonishing new form design,Evelyn,Designer
+Gamma Horizon,Online Form Data Collector,Collect form data front-end,James,Developer
+Gamma Horizon,Online Form Data Collector,Build back-end to display collected data,Hailey,Developer
+Gamma Horizon,Online Form Data Collector,Collect statistics and send them by mail,Hailey,Developer
+Gamma Horizon,Online Form Data Collector,Manager Support,Austin,Project Manager
